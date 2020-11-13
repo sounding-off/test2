@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas/topics.json",
+  "type": "AnnotationPage",
+  "label": "topics",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas/topics-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "turnips",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas/topics-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "nonsense",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas/topics-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "continued nonsense",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8,20"
+        }
+      }
+    }
+  ]
+}

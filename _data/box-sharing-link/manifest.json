@@ -23,6 +23,14 @@
         "id": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas",
         "type": "Canvas",
         "duration": 29,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/canvas/topics.json",
+            "label": "topics"
+          }
+        ],
         "items": [
           {
             "id": "https://sounding-off.github.io/test2/box-sharing-link/canvas-1/paintings",
