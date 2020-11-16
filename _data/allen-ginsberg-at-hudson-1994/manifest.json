@@ -23,6 +23,14 @@
         "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas",
         "type": "Canvas",
         "duration": 51.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas/1.json",
+            "label": "1"
+          }
+        ],
         "items": [
           {
             "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/paintings",
