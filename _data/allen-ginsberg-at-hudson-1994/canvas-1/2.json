@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas/2.json",
+  "type": "AnnotationPage",
+  "label": "2",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas/2-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "italiano",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas/2-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "c'e una poema in italiano",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas/2-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ooh, piu italiano",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5"
+        }
+      }
+    }
+  ]
+}

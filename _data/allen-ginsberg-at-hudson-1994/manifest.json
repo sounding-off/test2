@@ -30,6 +30,12 @@
             "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas/1.json",
             "label": "1"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sounding-off.github.io/test2/allen-ginsberg-at-hudson-1994/canvas-1/canvas/2.json",
+            "label": "2"
+          }
         ],
         "items": [
           {
